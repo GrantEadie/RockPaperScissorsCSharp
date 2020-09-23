@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2cyYO3Efvn1qttShTqzdDRSichkcMSuTJkEcAAjhA8VDAtPJ3QSjirglz0nJc0jYNiY2krhq/k4cPLr/w+zpvw==",
+  "dgSpecHash": "fWSk+z2f84uBn/pxAxxNY3d1JdzzD7As0KasU2OxlWCZKwPl8ml8v0grWao/joCK6sWStHb5akmwF7baGo9e6g==",
   "success": true,
-  "projectFilePath": "C:\\users\\Jeffrey\\documents\\epicodus\\csharp\\Rock-Paper-Scissors\\RockPaperScissors.Tests\\RockPaperScissors.Tests.csproj",
+  "projectFilePath": "C:\\users\\Jeffrey\\documents\\epicodus\\csharp\\rockpaperscissors.solution\\rockpaperscissors.tests\\RockPaperScissors.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jeffrey\\.nuget\\packages\\microsoft.codecoverage\\15.9.0\\microsoft.codecoverage.15.9.0.nupkg.sha512",
     "C:\\Users\\Jeffrey\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

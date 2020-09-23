@@ -1,21 +1,38 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+
 namespace RockPaperScissors.Models
 {
   public class Game
   {
-
-    int Rock = 3;
-    int scissors = 2;
-    int paper;
-
-    if (rock) 
+    public string PlayGame(string player1Selection, string player2Selection)
     {
-      paper = 4;
-    }
-    else
-    {
-      paper = 1;
-    }
+      Dictionary<string, string> _selections = new Dictionary<string, string>() { { player1Selection, "1" }, { player2Selection, "2" } };
 
+      string Winner = "";
+        if (_selections.ContainsKey("rock") && _selections.ContainsKey("scissors")) 
+        {
+          Winner = "Player " + _selections["rock"] + " wins!"; 
+        }
 
+        if (_selections.ContainsKey("rock") && _selections.ContainsKey("paper")) 
+        {
+          Winner = "Player " + _selections["paper"] + " wins!"; 
+        }
+
+        if (_selections.ContainsKey("scissors") && _selections.ContainsKey("paper")) 
+        {
+          Winner = "Player " + _selections["scissors"] + " wins!"; 
+        }
+
+        if (_selections.ElementAt(0).Key ==  _selections.ElementAt(1).Key)
+        {
+          Winner = "It's a tie!";
+        }
+
+        return Winner;
+        }
   }
 }
+
