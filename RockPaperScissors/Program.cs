@@ -13,9 +13,15 @@ namespace RockPaperScissors.Models
       string player1Selection = Console.ReadLine().ToLower();
       Console.WriteLine("Player 2, choose you weapon. Rock, Paper, or Scissors: ");
       string player2Selection = Console.ReadLine().ToLower();
+
+      if (player1Selection == player2Selection)
+      {
+        player1Selection = player1Selection + "1";
+      }
       
       Game mainGame = new Game();
-      Console.WriteLine(mainGame.PlayGame(player1Selection, player2Selection));
+      string output = mainGame.PlayGame(player1Selection, player2Selection);
+      Console.WriteLine(output);
     }
   }
 }

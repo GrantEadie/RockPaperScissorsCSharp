@@ -26,7 +26,7 @@ namespace RockPaperScissors.Models
           Winner = "Player " + _selections["scissors"] + " wins!"; 
         }
 
-        if (_selections.ElementAt(0).Key ==  _selections.ElementAt(1).Key)
+        if (_selections.ElementAt(0).Key ==  (_selections.ElementAt(1).Key + "1"))
         {
           Winner = "It's a tie!";
         }
