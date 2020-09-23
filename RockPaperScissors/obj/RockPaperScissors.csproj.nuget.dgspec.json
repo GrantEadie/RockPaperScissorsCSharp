@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\users\\Jeffrey\\documents\\epicodus\\csharp\\rockpaperscissors.solution\\RockPaperScissors\\RockPaperScissors.csproj": {}
+    "C:\\users\\Jeffrey\\documents\\epicodus\\csharp\\rockpaperscissors.solution\\rockpaperscissors\\RockPaperScissors.csproj": {}
   },
   "projects": {
-    "C:\\users\\Jeffrey\\documents\\epicodus\\csharp\\rockpaperscissors.solution\\RockPaperScissors\\RockPaperScissors.csproj": {
+    "C:\\users\\Jeffrey\\documents\\epicodus\\csharp\\rockpaperscissors.solution\\rockpaperscissors\\RockPaperScissors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\users\\Jeffrey\\documents\\epicodus\\csharp\\rockpaperscissors.solution\\RockPaperScissors\\RockPaperScissors.csproj",
+        "projectUniqueName": "C:\\users\\Jeffrey\\documents\\epicodus\\csharp\\rockpaperscissors.solution\\rockpaperscissors\\RockPaperScissors.csproj",
         "projectName": "RockPaperScissors",
-        "projectPath": "C:\\users\\Jeffrey\\documents\\epicodus\\csharp\\rockpaperscissors.solution\\RockPaperScissors\\RockPaperScissors.csproj",
+        "projectPath": "C:\\users\\Jeffrey\\documents\\epicodus\\csharp\\rockpaperscissors.solution\\rockpaperscissors\\RockPaperScissors.csproj",
         "packagesPath": "C:\\Users\\Jeffrey\\.nuget\\packages\\",
-        "outputPath": "C:\\users\\Jeffrey\\documents\\epicodus\\csharp\\rockpaperscissors.solution\\RockPaperScissors\\obj\\",
+        "outputPath": "C:\\users\\Jeffrey\\documents\\epicodus\\csharp\\rockpaperscissors.solution\\rockpaperscissors\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/ICt5YkADAVfLJe3Mo3oKf5puqVIGaLH/vb5Tj7lOZpM0ULUchbHGnGhFErUMGqn5VLe5vXAkDfCTeJvd+fwSw==",
+  "dgSpecHash": "gnvLMzuzaoUWQK1FW+OBxho/57K/SMukGzCZHvd+z6NSDeowma+sQ02J+/wIoEqEVopsbbsWEAsSkm1C7FX2GA==",
   "success": true,
-  "projectFilePath": "C:\\users\\Jeffrey\\documents\\epicodus\\csharp\\rockpaperscissors.solution\\RockPaperScissors\\RockPaperScissors.csproj",
+  "projectFilePath": "C:\\users\\Jeffrey\\documents\\epicodus\\csharp\\rockpaperscissors.solution\\rockpaperscissors\\RockPaperScissors.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

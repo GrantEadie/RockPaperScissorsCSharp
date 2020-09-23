@@ -7,3 +7,7 @@ C:\users\Jeffrey\documents\epicodus\csharp\rockpaperscissors.solution\RockPaperS
 C:\users\Jeffrey\documents\epicodus\csharp\rockpaperscissors.solution\RockPaperScissors\bin\Debug\netcoreapp3.1\RockPaperScissors.pdb
 C:\users\Jeffrey\documents\epicodus\csharp\rockpaperscissors.solution\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.dll
 C:\users\Jeffrey\documents\epicodus\csharp\rockpaperscissors.solution\RockPaperScissors\obj\Debug\netcoreapp3.1\RockPaperScissors.pdb
+C:\users\Jeffrey\documents\epicodus\csharp\rockpaperscissors.solution\rockpaperscissors\bin\Debug\netcoreapp3.1\RockPaperScissors.exe
+C:\users\Jeffrey\documents\epicodus\csharp\rockpaperscissors.solution\rockpaperscissors\bin\Debug\netcoreapp3.1\RockPaperScissors.runtimeconfig.json
+C:\users\Jeffrey\documents\epicodus\csharp\rockpaperscissors.solution\rockpaperscissors\bin\Debug\netcoreapp3.1\RockPaperScissors.runtimeconfig.dev.json
+C:\users\Jeffrey\documents\epicodus\csharp\rockpaperscissors.solution\rockpaperscissors\obj\Debug\netcoreapp3.1\RockPaperScissors.genruntimeconfig.cache
